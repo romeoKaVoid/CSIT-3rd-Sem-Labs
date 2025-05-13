@@ -19,4 +19,3 @@ Originally, each subject had a separate GitHub repository. All lab contents have
 
 ## 📌 Note
 - This repo is intended for educational and reference purposes.
-- Contributions or suggestions are welcome!
